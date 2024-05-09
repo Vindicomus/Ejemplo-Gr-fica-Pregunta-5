@@ -7,13 +7,14 @@ CSS (Bootstrap)
 JavaScript (Chart.js)
 
 Descripción
-El gráfico representa las respuestas a la pregunta "¿Experimentas ansiedad si pasas un día sin revisar tus redes sociales?" de la encuesta realizada. Utiliza un gráfico de barras para mostrar la distribución de las respuestas.
+El gráfico representa las respuestas a la pregunta "¿Experimentas ansiedad si pasas un día sin revisar tus redes sociales?" de la encuesta realizada. Utiliza un gráfico 'pie' para mostrar la distribución de las respuestas.
 
 Estructura de Archivos
 index.html: Contiene la estructura de la página web y el canvas donde se renderiza el gráfico.
 styles.css: Archivo CSS que proporciona estilos personalizados para la página.
 scripts.js: Archivo JavaScript que configura y renderiza el gráfico utilizando Chart.js.
 README.md: Este archivo que proporciona información sobre el proyecto.
+
 Instrucciones de Uso
 Clona o descarga el repositorio.
 Abre el archivo index.html en tu navegador web.
